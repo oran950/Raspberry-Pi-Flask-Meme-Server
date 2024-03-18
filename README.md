@@ -23,4 +23,4 @@ my main computer:
 
 
 
-**inedx_meme.html should be inside folder named as templates
+**inedx_meme.html should be inside folder named templates

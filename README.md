@@ -34,7 +34,7 @@ my main computer:
 
 Features:
 
-Utilizes Flask, a micro web framework for Python, to create dynamic and interactive web pages.
+Utilizes Flask, a micro web framework for Python, to create web pages.
 using the Raspberry Pi as a server, providing a solution for hosting the website within a local network.
 i can access the website from any device connected to the same local network, including smartphones, tablets, laptops, and desktop computers.
 The website fetches random memes from Reddit and displays them to the users.

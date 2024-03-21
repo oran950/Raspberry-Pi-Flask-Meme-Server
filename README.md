@@ -29,6 +29,19 @@ my main computer:
 
 **make sure the html file is inside folder named templates
 
+GoogleCloud SQL(my instance):
+
+![image](https://github.com/oran950/Raspberry-Pi-Flask-Meme-Server/assets/43114098/448fa776-b4de-41ca-b610-7c99fb178c24)
+
+Service account (cloud-sql-proxy dialog-appointment-bot):
+
+![image](https://github.com/oran950/Raspberry-Pi-Flask-Meme-Server/assets/43114098/2acb56ab-64c4-4e7f-84b7-096df22aeac7)
+
+
+MySQL DataBase preview:
+
+
+![image](https://github.com/oran950/Raspberry-Pi-Flask-Meme-Server/assets/43114098/9ffba631-3a63-477d-88cc-d85c501b8ec6)
 
 
 
@@ -65,4 +78,8 @@ To get started with this project, do that:
 4)Run the Flask application using the provided instructions.
 
 5)Access the website from any device connected to your local network and enjoy browsing through random memes from Reddit.
+
+
+
+
 

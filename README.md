@@ -2,7 +2,8 @@
 
 Flask Website on Raspberry Pi for Local Network Access
 
-This project enables users to host a Flask website on a Raspberry Pi, allowing access from any device connected to the same local network.this project offers a seamless solution for hosting web applications within a local environment. The server's primary functionality revolves around fetching memes from Reddit and storing them in a database.
+This project make me learn a lot about building web server and connecet it to data base .
+the project enables users to host a Flask website on a Raspberry Pi, allowing access from any device connected to the same local network.this project offers a seamless solution for hosting web applications within a local environment. The server's primary functionality revolves around fetching memes from Reddit and storing them in a database.
 
 my raspberri pi terminal:
 

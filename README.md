@@ -22,7 +22,7 @@ my main computer:
 
 
 
-![image](https://github.com/oran950/Raspberry-Pi-Flask-Meme-Server/assets/43114098/3ce2d320-34af-47da-8568-824b13fd94cb)
+![image](https://github.com/oran950/Raspberry-Pi-Flask-Meme-Server/assets/43114098/23e605ba-7801-4ac8-b772-a1b411815bc6)
 
 
 

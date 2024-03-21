@@ -34,7 +34,7 @@ def index():
     meme = Meme(meme_url=meme_url, subreddit=subreddit)
     db.session.add(meme)
     db.session.commit()
-    return render_template("main_page.html", meme_url=meme_url, subreddit=subreddit)
+    return render_template("inedx_meme.html", meme_url=meme_url, subreddit=subreddit)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
